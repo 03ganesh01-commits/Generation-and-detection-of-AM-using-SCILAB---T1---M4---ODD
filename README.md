@@ -103,6 +103,6 @@ Compare the original modulating signal with the demodulated signal.
 2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =**
 
 # MODEL GRAPH
-# MODEL GRAPH
 
-![AM Modulation and Demodulation Model Graph](5c8dca67-9439-4cd2-9457-9c68cd236d7e.png)
+<img src="./model_graph.png" alt="AM Modulation Model Graph" width="700">
+
